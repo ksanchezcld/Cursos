@@ -114,7 +114,7 @@ python-mpd==0.3.0
 python-nmap==0.3.2
 python-virtkey==0.60.0
 pytz==2010b
-pyxdg==0.19
+pyxdg==0.26
 reportlab==2.5
 scapy==2.1.0
 selenium==2.40.0
