@@ -95,7 +95,7 @@ pexpect==2.3
 piston-mini-client==0.6
 protobuf==2.4.0a
 pyOpenSSL==0.12
-pyPdf==1.13
+pyPdf==3.9.0
 pyasn1==0.0.11a
 pycrypto==2.3
 pycups==1.9.59
