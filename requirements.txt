@@ -90,7 +90,7 @@ oauth==1.0.1
 onboard==0.96.1
 oneconf==0.2.6.7
 papyon==0.5.5
-paramiko==1.7.7.1
+paramiko==3.4.0
 pexpect==2.3
 piston-mini-client==0.6
 protobuf==2.4.0a
